@@ -60,7 +60,7 @@ export default function AnalysisResults({ results, moduleName }: AnalysisResults
           <div>
             <CardTitle className="font-headline text-2xl text-primary">Analysis Complete</CardTitle>
             <CardDescription>
-              {results.length} issue(s) found in {moduleName}.
+              {results.length} issue(s) found for {moduleName}.
             </CardDescription>
           </div>
           <Button onClick={() => setIsReportOpen(true)}>

@@ -59,7 +59,7 @@ export default function ReportDialog({
             <Separator />
             <div className="mt-4">
               <h2 className="text-2xl font-semibold">
-                Module: <span className="text-primary">{moduleName}</span>
+                Assessment for: <span className="text-primary">{moduleName}</span>
               </h2>
               <p className="text-muted-foreground">
                 Summary of vulnerabilities and findings from the security scan.
