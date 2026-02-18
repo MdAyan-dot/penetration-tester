@@ -3,7 +3,7 @@
 ## Core Features:
 
 - Module Execution: Execute selected security modules directly from the web interface using Python and Bash scripts.
-- Comprehensive Analysis Display: Display the results of the security analysis in a structured, easy-to-read format.
+- Comprehensive Analysis Display: Display the results of the security analysis in a structured, easy-to-read format and easy to unserstand too for general people.
 - Report Generation: Generate comprehensive reports summarizing the security assessment findings.
 
 ## Style Guidelines:
